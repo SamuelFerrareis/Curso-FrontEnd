@@ -28,6 +28,9 @@ git clone https://github.com/SamuelFerrareis/Curso-FrontEnd.git
 ## Commits
 Informação de Alteração
 - após testado todo seu código
+- git add *
+- git commit -m "mensagem"
+- git push (enviar alterações para o repositorio)
 
 ## GitFlow
 fluxo do git
