@@ -23,6 +23,7 @@ Mac (Brew): brew install git
 ## Criar conta do GitHub
 
 ## Clonar o projeto
+git clone https://github.com/SamuelFerrareis/Curso-FrontEnd.git
 
 ## Commits
 Informação de Alteração
