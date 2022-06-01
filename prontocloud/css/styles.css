@@ -107,7 +107,7 @@ nav a {
 }
 
 nav a:hover {
-    color: blue;
+    color: #385874;
 }
 
 section article {
@@ -132,4 +132,8 @@ footer p {
 footer small {
     font-size: 80%;
     display: block;
+}
+
+.cog-branding__powered {
+    visibility: hidden !important;
 }
