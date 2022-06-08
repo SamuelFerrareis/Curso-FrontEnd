@@ -1,0 +1,185 @@
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: grey;
+    font-family: 'Limelight', 'cursive';
+    font-family: 'PT Sans', sans-serif;
+}
+
+.main-container {
+    display: block;
+    width: 100vw;
+    margin: 0 auto;
+}
+
+.container {
+    display: block;
+    float: left;
+    padding: 10px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    background: grey;
+    display: block;
+    float: left;
+    padding: 20px;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #254259;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 2.8rem;
+    color: #254259;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+h4 {
+    font-size: 2.5rem;
+    color: #254259;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+h5 {
+    font-size: 1.8rem;
+    color: rgb(255, 0, 0);
+    margin: 20px 0 10px 0;
+
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+}
+
+p {
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
+
+#text1 {
+    text-align: center;
+}
+
+#textfinal {
+    padding-top: 20px;
+    text-align: center;
+    background-color: grey;
+}
+
+
+img {
+    width: 700px;
+    height: 300px;
+    padding-left: 140px;
+}
+
+#imagem-principal {
+    max-width: 100%;
+    height: auto;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+ol li {
+    font-size: 2rem;
+    color: #454545;
+    background-color: grey;
+}
+
+
+section {
+   background-color: grey;
+   display: block;
+   float: left;
+   width: 100%;
+   font-size: 1.9rem;
+   padding: 20px; 
+}
+
+section nav {
+    display: block;
+    float: left;
+    width: 30%;
+}
+
+nav li {
+    background-color: rgb(200, 200, 200);
+    margin: 1px 20px 1px 0;
+    padding: 20px;
+}
+
+nav li>:hover {
+    background-color: #dfdfdf;
+}
+
+nav a {
+    text-decoration: none;
+    color: #454545;
+}
+
+nav a:hover {
+    color: #385874;
+}
+
+section article {
+    display: block;
+    float: left;
+    width: 70%;
+}
+
+div article {
+    background-color: grey;
+}
+
+#botao { text-align: center;} 
+.botaoentrar {
+    width: 250px;
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #fcc302;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #254159;
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 20px;
+    
+}
+
+footer p {
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+footer small {
+    font-size: 80%;
+    display: block;
+}
+
+
+
+
+
+
+
