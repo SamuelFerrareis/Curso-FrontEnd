@@ -1,0 +1,105 @@
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: grey;
+    font-family: 'Limelight', 'cursive';
+    font-family: 'PT Sans', sans-serif;
+}
+
+header {
+    background: gray;
+    display: block;
+    float: left;
+    padding: 20px;
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: black;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#seta {
+  position: absolute;
+  padding: 20px;
+  box-shadow: 2px -2px 0 1px #000 inset;
+  border: solid transparent;
+  border-width: 0 0 2px 2px;
+  transform: rotate(315deg);
+  margin-left: 660px;
+}
+
+#botao { text-align: center;} 
+.botaohome {
+    width: 250px;
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #fcc302;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#tenho-interesse {
+    background-color: #b8c8d6;
+    width: 100%;
+}
+
+#tenho-interesse form, .cog-form__content {
+    background-color: #b8c8d6 !important;
+}
+
+#tenho-interesse .cog-cognito--styled .cog-header h1,
+#tenho-interesse .cog-label, :root:root:root:root:root .cog-label {
+    color: #385874;
+}
+
+#tenho-interesse .cog-cognito--styled .cog-button--primary, html .cog-cognito--styled .cog-page__navigation .cog-button, :root:root:root:root:root .cog-cognito--styled .cog-button--primary, :root:root:root:root:root .cog-cognito--styled .cog-page__navigation .cog-button {
+    min-width: 120px;
+}
+
+#cognito {
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: #254159;
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 20px;
+    
+}
+
+footer p {
+    text-align: left;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+footer small {
+    font-size: 80%;
+    display: block;
+}
+
+.cognito {
+    height: 510px !important;
+    overflow: hidden !important;
+}
